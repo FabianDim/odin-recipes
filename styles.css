@@ -1,0 +1,18 @@
+body {
+    font-family: monospace;
+    background-color: azure;
+}
+
+.description {
+    background-color: aquamarine;
+    padding: 3px;
+}
+h1 {
+    color: purple;
+    font-weight: 700;
+    text-align: center;
+}
+
+#ingredients {
+    background-color: pink;
+}
